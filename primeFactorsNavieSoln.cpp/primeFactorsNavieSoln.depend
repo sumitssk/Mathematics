@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708266039 source:d:\dsanotes\mathematics\primefactorsnaviesoln\primefactorsnaviesoln.cpp
+	<iostream>
+	<bits/stdc++.h>
+
